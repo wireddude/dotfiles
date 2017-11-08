@@ -1,2 +1,2 @@
 # dotfiles
-some of my favorite dotfiles
+my favorite dotfiles
