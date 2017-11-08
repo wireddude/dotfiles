@@ -1,4 +1,5 @@
 execute pathogen#infect()
+ set spell spellang=en_us 
 inoremap jk <ESC> 
 set columns=160
 set textwidth=80
